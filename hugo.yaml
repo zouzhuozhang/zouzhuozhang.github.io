@@ -97,8 +97,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to Jone'Log \U0001F44B"
+    Content: Hi, this is Jone. documenting my learning notes in this blog since 2025. If there are any errors in the notes, please contact me. Best wishes! 😘
 
   socialIcons:
     - name: x
@@ -106,7 +106,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/zouzhuozhang/"
 
   analytics:
     google:
