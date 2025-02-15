@@ -34,9 +34,6 @@ languages:
         - name: Tags
           url: tags/
           weight: 15
-        - name: About
-          url: about/
-          weight: 20
 
 outputs:
   home:
