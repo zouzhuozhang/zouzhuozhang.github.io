@@ -1,5 +1,5 @@
 ---
-title: "Statr a web log"
+title: "Statr a Web Log"
 summary: Deploying a Blog from 0 to 1.
 date: 2025-02-15
 weight: 100
@@ -32,10 +32,10 @@ author: ["Jone"]
 #### 1. Install Homebrew
 
 ```bash
-# bash command
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-# install success ?
+```bash
 brew -v
 ```
 
@@ -55,7 +55,13 @@ You need creat a github project which named `user_name.github.io`, and clone to 
 
 ```bash
 git clone https://github.com/adityatelange/hugo-PaperMod PaperMod --depth=1
+```
+
+```bash
 cd themes/PaperMod
+```
+
+```bash
 git pull
 ```
 

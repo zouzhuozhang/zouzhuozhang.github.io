@@ -1,6 +1,6 @@
 baseURL: "https://zouzhuozhang.github.io/"
 languageCode: en-us
-title: My New Hugo Site
+title: Jone'Log
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
@@ -34,6 +34,9 @@ languages:
         - name: Tags
           url: tags/
           weight: 15
+        - name: About
+          url: about/
+          weight: 20
 
 outputs:
   home:
@@ -57,7 +60,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -72,15 +75,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.ico"
+    # favicon16x16: "favicon.ico"
+    # favicon32x32: "favicon.ico"
+    # apple_touch_icon: "favicon.ico"
+    # safari_pinned_tab: "favicon.ico"
 
   label:
     text: "Jone'Log"
-    icon: /apple-touch-icon.png
+    icon: /favicon.ico
     iconHeight: 35
 
   # profile-mode
@@ -104,10 +107,8 @@ params:
     Content: Hi, this is Jone. I'm documenting my learning notes in this blog since 2025. If there are any errors in the notes, please contact me. Best wishes! 😘
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: Email
+      url: "zzztx_email@163.com"
     - name: github
       url: "https://github.com/zouzhuozhang/"
 
