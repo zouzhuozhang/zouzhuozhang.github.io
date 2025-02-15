@@ -1,7 +1,7 @@
-baseURL: "https://zouzhuozhang.github.io"
+baseURL: "https://zouzhuozhang.github.io/"
 languageCode: en-us
 title: My New Hugo Site
-theme: "PaperMod"
+theme: ["PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
