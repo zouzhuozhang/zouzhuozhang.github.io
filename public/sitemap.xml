@@ -2,50 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zouzhuozhang.github.io/posts/papermod/papermod-installation/</loc>
+    <loc>http://localhost:1313/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/posts/papermod/papermod-features/</loc>
+    <loc>http://localhost:1313/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/tags/docs/</loc>
+    <loc>http://localhost:1313/tags/docs/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/tags/papermod/</loc>
+    <loc>http://localhost:1313/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/series/papermod/</loc>
+    <loc>http://localhost:1313/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/posts/papermod/</loc>
+    <loc>http://localhost:1313/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/archives.fr/</loc>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/posts/my-first-post/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/archives.fr/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/archives/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://zouzhuozhang.github.io/categories/</loc>
-  </url><url>
-    <loc>https://zouzhuozhang.github.io/search/</loc>
-  </url><url>
-    <loc>https://zouzhuozhang.github.io/search.fr/</loc>
+    <loc>http://localhost:1313/search.fr/</loc>
   </url>
 </urlset>

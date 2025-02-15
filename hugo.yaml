@@ -76,7 +76,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Jone'Log"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -98,7 +98,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to Jone'Log \U0001F44B"
-    Content: Hi, this is Jone. documenting my learning notes in this blog since 2025. If there are any errors in the notes, please contact me. Best wishes! 😘
+    Content: Hi, this is Jone. I'm documenting my learning notes in this blog since 2025. If there are any errors in the notes, please contact me. Best wishes! 😘
 
   socialIcons:
     - name: x
