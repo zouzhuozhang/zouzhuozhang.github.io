@@ -23,7 +23,7 @@ languages:
     menu:
       main:
         - name: Posts
-          url: /
+          url: posts/
           weight: 1
         - name: Archive
           url: archives
@@ -34,6 +34,9 @@ languages:
         - name: Tags
           url: tags/
           weight: 15
+        - name: About
+          url: about/
+          weight: 20
 
 outputs:
   home:
