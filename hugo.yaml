@@ -49,7 +49,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  # author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -107,10 +107,10 @@ params:
     Content: Hi, this is Jone. I'm documenting my learning notes in this blog since 2025. If there are any errors in the notes, please contact me. Best wishes! 😘
 
   socialIcons:
-    - name: Email
-      url: "zzztx_email@163.com"
-    - name: github
-      url: "https://github.com/zouzhuozhang/"
+    # - name: Email
+    #   url: "zzztx_email@163.com"
+    # - name: github
+    #   url: "https://github.com/zouzhuozhang/"
 
   analytics:
     google:
@@ -126,9 +126,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/zouzhuozhang/zouzhuozhang.github.io/tree/master/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    # URL: "https://github.com/zouzhuozhang/zouzhuozhang.github.io/tree/master/content"
+    # Text: "Suggest Changes" # edit text
+    # appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
