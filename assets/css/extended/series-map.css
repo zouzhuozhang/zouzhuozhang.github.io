@@ -1,0 +1,36 @@
+/* 系列地图表格:内容列优先,列宽按角色分配 */
+table.series-map {
+  width: 100%;
+  table-layout: fixed;
+  overflow-wrap: break-word;
+}
+
+table.series-map th:nth-child(1),
+table.series-map td:nth-child(1) {
+  width: 4%; /* # */
+}
+
+table.series-map th:nth-child(2),
+table.series-map td:nth-child(2) {
+  width: 13%; /* 维度 */
+}
+
+table.series-map th:nth-child(3),
+table.series-map td:nth-child(3) {
+  width: 47%; /* 内容 */
+}
+
+table.series-map th:nth-child(4),
+table.series-map td:nth-child(4) {
+  width: 21%; /* 链接 */
+}
+
+table.series-map th:nth-child(5),
+table.series-map td:nth-child(5) {
+  width: 6%; /* 权重 */
+}
+
+table.series-map th:nth-child(6),
+table.series-map td:nth-child(6) {
+  width: 9%; /* 状态 */
+}

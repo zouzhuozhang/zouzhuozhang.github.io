@@ -158,6 +158,10 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true # 允许给段落/表格等块级元素加 {.class} 属性,如表格 {.series-map}
   highlight:
     noClasses: false
     # anchorLineNos: true
