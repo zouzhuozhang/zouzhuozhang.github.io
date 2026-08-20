@@ -1,3 +1,10 @@
+/* 兜底:文章内所有表格占满宽度,列宽按内容自动分配 */
+.md-content table {
+  width: 100%;
+  table-layout: auto;
+  overflow-wrap: break-word;
+}
+
 /* 系列地图表格:内容列优先,列宽按角色分配 */
 table.series-map {
   width: 100%;
