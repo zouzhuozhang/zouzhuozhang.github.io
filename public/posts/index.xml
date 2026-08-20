@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Jone&#39;Log</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://zouzhuozhang.github.io/posts/</link>
     <description>Recent content in Posts on Jone&#39;Log</description>
     <image>
       <title>Jone&#39;Log</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://zouzhuozhang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zouzhuozhang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zouzhuozhang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Template</title>
-      <link>http://localhost:1313/posts/blog/blog-template/</link>
+      <link>https://zouzhuozhang.github.io/posts/blog/blog-template/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blog/blog-template/</guid>
+      <guid>https://zouzhuozhang.github.io/posts/blog/blog-template/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
       <title>Statr a Web Log</title>
-      <link>http://localhost:1313/posts/blog/start-blog/</link>
+      <link>https://zouzhuozhang.github.io/posts/blog/start-blog/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blog/start-blog/</guid>
+      <guid>https://zouzhuozhang.github.io/posts/blog/start-blog/</guid>
       <description>Deploying a Blog from 0 to 1.</description>
     </item>
     <item>
       <title>Agent架构系列开篇:从 0 到 1 搭建云端智能体</title>
-      <link>http://localhost:1313/posts/agent-architecture/series-intro/</link>
+      <link>https://zouzhuozhang.github.io/posts/agent-architecture/series-intro/</link>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/agent-architecture/series-intro/</guid>
+      <guid>https://zouzhuozhang.github.io/posts/agent-architecture/series-intro/</guid>
       <description>云端Agent / 从一条语音或文本开始，到Agent返回文本或语音结束 / 对话系统工程实践系列</description>
     </item>
   </channel>
